@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Aulh7C5SVOA4Jzt5eHNH6197Mbk=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "f55edac94c9bbba5d6182a4be46d86a2c9b5b50e",
+			"revisionTime": "2019-02-26T22:47:05Z"
+		},
+		{
+			"checksumSHA1": "+enshrlE9AS7iFQTrtHNWj4wAFw=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "07a84ee7412e7a28663d92930a1d46f81b124ee1",
+			"revisionTime": "2019-07-01T14:35:06Z"
+		},
+		{
+			"checksumSHA1": "mOHyEUirKfPlwuEKW6osqxwG1wg=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "1393eb0183657fb29200106b17a5042ec6e48dbe",
+			"revisionTime": "2019-07-29T19:58:47Z"
+		}
+	],
+	"rootPath": "penet"
+}
